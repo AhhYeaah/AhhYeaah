@@ -2,8 +2,8 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-  [![Linkedin Badge](https://img.shields.io/badge/MatheusSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-andre-alves/?locale=en_US) 
-  [![Gmail Badge](https://img.shields.io/badge/-mathewsandre@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathewsandre@outlook.com)](mathewsandre@outlook.com) 
+  [![Linkedin Badge](https://img.shields.io/badge/MatheusSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-andre-alves/?locale=en_US)](https://www.linkedin.com/in/matheus-andre-alves/?locale=en_US)
+  [![Gmail Badge](https://img.shields.io/badge/-mathewsandre@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathewsandre@outlook.com)]
   
 I am Matheus Andre 😃. I am from Brazil, São paulo. Currently Studying System Analysis and Development at Instituto Técnico de São Paulo (IFSP) 🏫
 
