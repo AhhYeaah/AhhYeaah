@@ -25,5 +25,6 @@ Talk to me about:
 ## Hello World!! 🤔
 - 💬 Feel free to send me a email asking about anything: mathewsandre2@outlook.com 
 - ⚡ Fun fact: Competitive art used to be an Olympic sport.
-
-<img align="center" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<div align="center">
+<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<div>
