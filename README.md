@@ -15,7 +15,7 @@ I am Matheus Andre. I am from Brazil, São paulo. Currently Studying System Anal
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using the basics: **HTML, Javascript, CSS, Bootstrap**.
-- Front-end development using the not basics: **React, Angular, Tailwindcss, CSS pre-processors, JWT, and more. **
+- Front-end development using the not basics: **React, Angular, Tailwindcss, CSS pre-processors, JWT, and more.**
 - Backend development using **Node**.
 - Database manipulation using **SQL, TypeORM or Prisma (Still learning this one)**? Sign me up.
 - Creating scalable cloud architecture using **AWS Cloud**.
